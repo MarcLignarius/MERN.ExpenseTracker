@@ -10,7 +10,7 @@ export const TransactionList = () => {
       <ul className="list">
         {transactions.map(transaction => (
           <li className="minus">
-            {transaction.text} <span>-$400</span>
+            {transaction.text} <span>{transaction.amount}</span>
             <button className="delete-btn">x</button>
           </li>
         ))}
