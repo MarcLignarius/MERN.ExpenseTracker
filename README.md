@@ -32,8 +32,8 @@ This application allows users to track their expenses by entering transactions. 
 
 * Launch your terminal.
 * `cd desktop` Navigate to the desktop.
-* `git clone "https://github.com/MarcLignarius/React.ExpenseTracker"` Clone this repository to your desktop.
-* `cd React.ExpenseTracker` Open up the cloned repository.
+* `git clone "https://github.com/MarcLignarius/MERN.ExpenseTracker"` Clone this repository to your desktop.
+* `cd MERN.ExpenseTracker` Open up the cloned repository.
 * `npm install` This will allow the viewer of this project to have access to the CLI (command line interface) for webpack.
 * `npm run start` to launch the app which will be hosted at  http://localhost:5000/
 
