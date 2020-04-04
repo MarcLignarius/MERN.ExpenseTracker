@@ -37,6 +37,8 @@ This application allows users to track their expenses by entering transactions. 
 * `npm install` This will allow the viewer of this project to have access to the CLI (command line interface) for webpack.
 * `npm run start` to launch the app which will be hosted at  http://localhost:5000/
 
+Alternatively, visit https://salty-journey-08055.herokuapp.com/ to see the live version of the application. Please note it may take up to a minute or so for the application to open.
+
 ## Known Bugs
 There are no known bugs as of that last release.
 
